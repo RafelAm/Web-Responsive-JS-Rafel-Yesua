@@ -5,7 +5,7 @@ function verificador(){
   var email = document.getElementById("email").value;
   var tel = document.getElementById("numero").value;
 
-  if (user == null || user.length == 0 || !(/^[a-zA-Z0-9]{4,}/)){
+  if (user == null || user.length == 0 || !(/^[a-zA-Z0-9]{4,}/.test(user))){
     alert("El nombre debe tener como minimo 4 caracteres (combinación de numericos y letras mayusculas y minsuculas)");
     return false;
   }
@@ -14,7 +14,7 @@ function verificador(){
     alert("El email no es valido");
     return false;
   }
-  else if(!(/^[0-9]{9}$/)){
+  else if(!(/^[0-9]{9}$/.test(tel))){
     alert("El teléfono debe tener 9 caracteres numericos");
     return false;
   }
