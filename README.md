@@ -95,6 +95,11 @@
      También hemos implementado un botón en la barra de navegación para cambiar la paleta de colores del formulario,
      por defecto se visualiza con un estilo “Mario”, si el usuario hace clic se modificará a un estilo “Luigi”.
      Esto lo realizará el archivo JS de cambio-form.js
+![image](https://github.com/RafelAm/Web-Responsive-JS-Rafel-Yesua/assets/147522281/b771f671-0c44-4ce4-81bf-d329c48a3c74)
+
+     Botón que cambia el color del form y de mini Mario
+     
+![image](https://github.com/RafelAm/Web-Responsive-JS-Rafel-Yesua/assets/147522281/6d45605e-3e21-4ef6-890e-ef12190702ea)
 
 ## MODIFICACIÓN DE INDEX.HTML
 
@@ -107,19 +112,32 @@
      En versión móvil se notificará al usuario mediante una alerta, por contra parte,
      la del ordenador añadirá un campo justo debajo de él.
 
+![image](https://github.com/RafelAm/Web-Responsive-JS-Rafel-Yesua/assets/147522281/4c9dad68-1d3e-4bb4-8e0a-32550e68acdd)
+
+     Con comentarios
+
+![image](https://github.com/RafelAm/Web-Responsive-JS-Rafel-Yesua/assets/147522281/6b476e9c-821f-470c-9ed8-7d9ff161b26e)
+
 # MODIFICACIÓN DE ZELDA.HTML
      Implementamos un carrusel en el primer apartado y 
      se realizan cambio en el estilo.
-     PON AQUÍ ALOG MAS DE INFO EN PLAN EL SCRIPT
+     El carrousel se ha realizado con un script de JavaScript y sin usar JQuery
 
+     Carrousel
+
+![image](https://github.com/RafelAm/Web-Responsive-JS-Rafel-Yesua/assets/147522281/b06ffb87-61a6-454c-b6c1-43e3ea2eab45)
+
+![image](https://github.com/RafelAm/Web-Responsive-JS-Rafel-Yesua/assets/147522281/4b0f0a84-f9d1-46ff-a0ec-13fd0f432087)
+
+     
 | Tareas | Yesua | Rafel | Rafel y Yesua|
 |----------|----------|----------|----------|
-|Planteamiento de la web| - | - | 2h|
-|Planteamiento del diseño de la web| - | - | 3h |
-|Diseño Responsive| 4h | h | - |
-|Diseño de imagenes| 1h | h | - |
-|Busqueda de fallos y bugs| 3h | h | - |
-|Fusión del contenido| 2h | h | - |
-|Desarollo de HTML| 3h | h | - |
-|Desarollo de CSS| 9h | h | - |
-|Desarollo de JS| 6h | h | - |
+|Planteamiento de la web| 1h | 1h | 2h|
+|Planteamiento del diseño de la web| 1h | 1h | 3h |
+|Diseño Responsive| 4h | 6h | - |
+|Diseño de imagenes| 1h | 1h | - |
+|Busqueda de fallos y bugs| 3h | 1h | - |
+|Fusión del contenido| 2h | 3h | - |
+|Desarollo de HTML| 3h | 3h | - |
+|Desarollo de CSS| 9h | 7h | - |
+|Desarollo de JS| 6h | 1h | - |
